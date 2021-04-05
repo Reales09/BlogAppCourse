@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997024558152",
+    "project_id": "blogapp-649fb",
+    "storage_bucket": "blogapp-649fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997024558152:android:510f56ded735a4601abc7d",
+        "android_client_info": {
+          "package_name": "com.reales.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997024558152-rtaicentprsangosmheovdc253u769v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxFgyrTVU2ry0S6JUJgfc-QNlKnOrTG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997024558152-rtaicentprsangosmheovdc253u769v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
