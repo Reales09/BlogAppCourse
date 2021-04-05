@@ -77,8 +77,9 @@
         android:id="@+id/btn_signup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
         android:text="SignUp"
-        android:layout_marginTop="16dp"/>
+        android:textColor="@color/teal_200" />
 
     <ProgressBar
         android:id="@+id/progress_bar"
